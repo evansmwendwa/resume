@@ -1,0 +1,330 @@
+{
+  "basics": {
+    "name": "Evans Mwendwa",
+    "label": "Frontend Developer",
+    "picture": "https://avatars1.githubusercontent.com/u/3830832?v=4&s=460",
+    "email": "evans@interaction-design.org",
+    "phone": "0725296847",
+    "website": "https://interaction-design.org/evans-mwendwa",
+    "summary": "I have 8 years of experience in developing beautiful interactive web and mobile software solutions. In the last few years working at the iHub UX Lab and iHub Consulting has gifted me with great interest and experience in UX design by participating in design thinking sessions, design sprints and UX Design and Prototyping. I have excellent problem solving skills and I am also very tech savvy and I always strain to keep myself at the top of the software development industry and modern technologies and design methodologies.  I have a great ability of working productively under high pressure, short deliverable cycles and with minimum supervision.",
+    "location": {
+      "address": "P. O. Box 22494",
+      "postalCode": "00505",
+      "city": "Nairobi",
+      "countryCode": "KE",
+      "region": "Kenya"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "evansmwendwa",
+        "url": "https://github.com/evansmwendwa"
+      },
+      {
+        "network": "Twitter",
+        "username": "evansmwendwa",
+        "url": "https://twitter.com/evansmwendwa"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "evans-mwendwa-44b12082",
+        "url": "linkedin.com/in/evans-mwendwa-44b12082/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "iHub Limited",
+      "position": "Frontend Developer",
+      "website": "https://ihub.co.ke",
+      "startDate": "2014-04-01",
+      "endDate": "",
+      "summary": "At iHub I started working with the iHub UX Lab which is the first User Experience Lab in Kenya where I got to learn how to integrate User Experience in my Software Development Projects. At iHub I have been tasked with the following:",
+      "highlights": [
+        "Software Development",
+        "API Design",
+        "Software Integrations",
+        "UX Design & Prototyping",
+        "Meeting with Clients",
+        "Web Design",
+        "Frontend Development",
+        "Mobile Development",
+        "Participated in Developer for hire program"
+      ]
+    },
+    {
+      "company": "Akirachix",
+      "position": "JavaScript Tutor",
+      "website": "http://akirachix.com/",
+      "startDate": "2017-02-01",
+      "endDate": "",
+      "summary": "AkiraChix is a not for profit organisation that aims to inspire and develop a successful force of women in technology who will change Africa’s future. At Akirachix I am tasked with the following:",
+      "highlights": [
+        "Course Development",
+        "Learning Organization",
+        "Teaching JavaScript Programming"
+      ]
+    },
+    {
+      "company": "Authentic Visuals Media",
+      "position": "Co-founder/CTO",
+      "website": "http://authenticvisualsmedia.com",
+      "startDate": "2010-01-01",
+      "endDate": "2015-12-31",
+      "summary": "I co-founded Authentic Visuals Media Limited which is a digital consultancy agency handling the creation of advanced and creative digital and print solutions. At AVM I was tasked with the following:",
+      "highlights": [
+        "Project Management",
+        "Software Development",
+        "Client Management"
+      ]
+    },
+    {
+      "company": "Webdiscount Technologies",
+      "position": "Software Developer",
+      "website": "http://mywebdiscount.com",
+      "startDate": "2010",
+      "endDate": "2012",
+      "summary": "Tasked with handling consultancy work on software development",
+      "highlights": [
+        "Frontend Development",
+        "Database Design",
+        "Needs Analysis",
+        "Software Design"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "PHP Meetup",
+      "position": "Event Organizer",
+      "website": "https://www.meetup.com/phpkenya/",
+      "startDate": "2014-12-01",
+      "endDate": "2016-01-01",
+      "summary": "Tasked with organizing Nairobi's PHP Meetup  held every second Tuesday of the month.",
+      "highlights": [
+        "Event Organizer for the first two years"
+      ]
+    },
+    {
+      "organization": "Devcraft Kenya",
+      "position": "Web Developer",
+      "website": "http://dev-craft.co.ke/",
+      "startDate": "2016-09-29",
+      "endDate": "2016-09-30",
+      "summary": "Tasked with the Development of the Devcraft Website. Devcraft is an event that brings together software engineers, project managers, product managers, quality assurance experts, data scientists, and UX experts in Nairobi, Kenya.",
+      "highlights": []
+    },
+    {
+      "organization": "Behance Portfolio Reviews",
+      "position": "Event Organizer",
+      "website": "https://www.behance.net/reviews",
+      "startDate": "2015-10-29",
+      "endDate": "2015-10-30",
+      "summary": "Successfully organized the 2nd Behance Portfolio Review week of 2015",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Jomo Kenyatta University of Agriculture and Technology",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2007-07-01",
+      "endDate": "2010-04-01",
+      "gpa": "",
+      "courses": [
+        "Database Design",
+        "System Analysis and Design",
+        "Software Engineering"
+      ]
+    },
+    {
+      "institution": "Team Treehouse",
+      "area": "Software Development",
+      "studyType": "Online Courses - https://teamtreehouse.com/evansmwendwa",
+      "startDate": "2015",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "Advanced JavaScript Programming",
+        "Frontend Assets Management",
+        "Android Development",
+        "Design Methodologies",
+        "Angular Programming"
+      ]
+    },
+    {
+      "institution": "Interaction Design Foundation",
+      "area": "User Experience ",
+      "studyType": "Online Learning - https://www.interaction-design.org",
+      "startDate": "2017",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "Design Thinking",
+        "Interaction Design",
+        "Usability and Design Patterns",
+        "Usability Testing",
+        "Gestalt Psychology"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Behance Portfolio Review Award",
+      "date": "2015-10-30",
+      "awarder": "Adobe",
+      "summary": "Awarded the Behance Portfolio Review Award for organizing Nairobi's Behance Portfolio Review Weeek"
+    }
+  ],
+  "publications": [
+    {
+      "name": "ng2-daterangepicker",
+      "publisher": "Evans Mwendwa",
+      "releaseDate": "2016-08-10",
+      "website": "https://github.com/evansmwendwa",
+      "summary": "Angular 2+ Datepicker Module"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Angular Framework",
+        "Symfony Framework",
+        "TypeScript",
+        "Sass",
+        "Wordpress",
+        "Joomla",
+        "Laravel",
+        "VueJS",
+        "PHP",
+        "Reactive Programming"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": [
+        "Database Design",
+        "SQL",
+        "NoSQL",
+        "MySQL",
+        "PostgreSQL",
+        "Database Programming",
+        "Database Security",
+        "SQL Server",
+        "Database Administration",
+        "SQL Injection"
+      ]
+    },
+    {
+      "name": "User Experience",
+      "level": "Intermediate",
+      "keywords": [
+        "UX Design",
+        "Design Thinking",
+        "Prototyping",
+        "UX Research"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Amazon Web Services",
+        "Distributed Linux Systems Setup",
+        "Laravel Forge",
+        "Digital Ocean",
+        "DNS Setups"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Ionic Framework",
+        "NativeScript",
+        "Phonegap",
+        "Firebase",
+        "High fidelity Prototyping"
+      ]
+    },
+    {
+      "name": "UI Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Adobe Experience Design",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Icon Font Design"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Excellent Speaker"
+    },
+    {
+      "language": "Swahili",
+      "fluency": "Excellent Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Game Design",
+        "Virtual Experience",
+        "Graphics Technology",
+        "E3 Conference"
+      ]
+    },
+    {
+      "name": "Software Conferences",
+      "keywords": [
+        "Google IO",
+        "WWDC",
+        "Microsoft Build",
+        "Github Universe",
+        "E3 Conference",
+        "Angular UP",
+        "Laracon"
+      ]
+    },
+    {
+      "name": "User Experience",
+      "keywords": [
+        "Design Thinking",
+        "Design Sprints"
+      ]
+    },
+    {
+      "name": "Modern Tech",
+      "keywords": [
+        "Virtual Reality",
+        "Robotics",
+        "Machine Learning"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jacob Chencha, Software Team Lead at iHub - chencha@ihub.co.ke",
+      "reference": "I have worked with Evans for almost 3 years now and he has proven to be resourceful in almost everything. He is a fast learner and a great software developer and I would definitely recommend him for any challenging problem."
+    },
+    {
+      "name": "Ansel Melly, Backend Developer at iHub - ansel@anselmelly.com",
+      "reference": "Evans is a committed, passionate and innovative Full stack developer who can deliver on time and with perfection"
+    },
+    {
+      "name": "Zack Adell, Best designer in Nairobi - zackadell@gmail.com",
+      "reference": "Evans is able to convert great and complex designs from photoshop to html pages with great perfection and attention to detail. "
+    }
+  ]
+}
